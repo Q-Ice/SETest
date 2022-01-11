@@ -190,10 +190,11 @@ body {
 .title-skill {
     color: #333;
     margin: 30px;
+    margin-left: 60px;
 }
 
 .list-skill {
-    margin-left: 50px;
+   margin-left: 80px;
 }
 
 .title-hobby {
